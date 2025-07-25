@@ -193,3 +193,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Together, we build safer communities through technology and cooperation.**
 
 Contract Address: 0x5Ab308698256DEBA1b67Ed85cbC9238Ce5E443A2
+
+<img width="1271" height="226" alt="Screenshot from 2025-07-25 14-29-31" src="https://github.com/user-attachments/assets/c2b5bb12-b995-4544-bec2-e8c93aca042d" />
